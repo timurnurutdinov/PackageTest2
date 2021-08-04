@@ -4,4 +4,6 @@ public struct PackageTest2 {
     public func test() -> String {
         return "wow"
     }
+    
+    public init() {}
 }
